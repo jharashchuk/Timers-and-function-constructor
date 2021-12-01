@@ -1,5 +1,7 @@
 # Timers-and-function-constructor
 
+ https://jharashchuk.github.io/Timers-and-function-constructor/
+
 ## Задание 1! Создать таймер.
 - Напишем функцию, которая будет выводить в консоль любую цифру.
 - Добавим следующий функционал: каждую секунду цифра должна увеличиваться на единицу.
